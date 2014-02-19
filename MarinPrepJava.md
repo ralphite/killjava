@@ -46,7 +46,7 @@ Marin Prep Java
   - `DONE` Each interviewer had a java programing question in mind and asked to code it on the white board. Some were tough ones and some were easy. eq, Str rev, Factorial, Fibonacci series. etc
   - `DONE` There was one product manager who actually gave me their web tool and asked me to find bugs on it and actually asked me to file the bug in bugzilla, this was kind of cool.
   - `DONE` Write a program to find factorial of a number - can use `java.math.BigInteger` which is not well designed
-  - Write a program to find the magic triangle or summation n
-  - [Quality Assurance Engineer Interview](http://www.glassdoor.com/Interview/Marin-Software-Quality-Assurance-Engineer-Interview-Questions-EI_IE113537.0,14_KO15,41.htm#RVW1206833)
+  - `DONE` Write a program to find the magic triangle or summation n
+  - `DONE` [Quality Assurance Engineer Interview](http://www.glassdoor.com/Interview/Marin-Software-Quality-Assurance-Engineer-Interview-Questions-EI_IE113537.0,14_KO15,41.htm#RVW1206833)
   - java concepts and bst questions
   - How would you design a web application that handles text lists as well as lists of lists?
