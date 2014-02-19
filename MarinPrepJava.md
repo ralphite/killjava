@@ -1,6 +1,10 @@
 Marin Prep Java
 ==============
 
+##Head quarter based in Mission Street which I visited many times and liked very much.
+##Coderpad.io有时抽风，如果花时间太长然后失败可以重试
+> There was a problem executing the code. Please try again.
+
 - abstract class vs interface
   - abstract class can have concrete methods while interface cannot
   - interface's fields have to be `public static final` while abstract class's fields dont have to
