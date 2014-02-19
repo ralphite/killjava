@@ -14,7 +14,7 @@ Marin Prep Java
 
 
 - questions
-  - find common chars in two strings
+  - `DONE` find common chars in two strings
   - find anagrams in a list of strings
   - find the nth biggest number from a long list of numbers (O(n) quickselect)
   - find the 10 biggest numbers in from a long list of numbers
