@@ -15,14 +15,14 @@ Marin Prep Java
 
 - questions
   - `DONE` find common chars in two strings
-  - find anagrams in a list of strings
+  - `DONE` find anagrams in a list of strings
   - find the nth biggest number from a long list of numbers (O(n) quickselect)
   - find the 10 biggest numbers in from a long list of numbers
-  - find the most frequently used word in a string
-  - print the correct sentense in the correct order
-  - Check whether two strings are anagram of each other
-  - compare abstract class and interface
-  - what is 4 left shift 2 XOR 2
+  - `DONE` find the most frequently used word in a string
+  - `DONE` print the correct sentense in the correct order
+  - `DONE` Check whether two strings are anagram of each other
+  - `DONE` compare abstract class and interface
+  - `DONE` what is 4 left shift 2 XOR 2
   - what is the value of a number with all bits as 0 except the leftmost one
   - explain a TreeMap
   - what methods do you have to implement to make the object properly comparable
