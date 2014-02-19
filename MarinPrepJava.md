@@ -43,8 +43,8 @@ Marin Prep Java
   - `DONE` what is a final class
   - `DONE` difference between private vs protected keywords
   - `DONE` difference between list and set
-  - Each interviewer had a java programing question in mind and asked to code it on the white board. Some were tough ones and some were easy. eq, Str rev, Factorial, Fibonacci series. etc
-  - There was one product manager who actually gave me their web tool and asked me to find bugs on it and actually asked me to file the bug in bugzilla, this was kind of cool.
+  - `DONE` Each interviewer had a java programing question in mind and asked to code it on the white board. Some were tough ones and some were easy. eq, Str rev, Factorial, Fibonacci series. etc
+  - `DONE` There was one product manager who actually gave me their web tool and asked me to find bugs on it and actually asked me to file the bug in bugzilla, this was kind of cool.
   - `DONE` Write a program to find factorial of a number - can use `java.math.BigInteger` which is not well designed
   - Write a program to find the magic triangle or summation n
   - [Quality Assurance Engineer Interview](http://www.glassdoor.com/Interview/Marin-Software-Quality-Assurance-Engineer-Interview-Questions-EI_IE113537.0,14_KO15,41.htm#RVW1206833)
