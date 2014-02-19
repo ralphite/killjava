@@ -11,3 +11,4 @@ Marin Prep Java
   - a red-black tree based NavigatableMap implementation
 
 - *understand trees, heaps and PriorityQueues* and code to get biggest 10 numbers in a long list
+- find the nth biggest number from a long list of numbers with O(n) quickselect
