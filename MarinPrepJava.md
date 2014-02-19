@@ -10,7 +10,7 @@ Marin Prep Java
 - TreeMap
   - a red-black tree based NavigatableMap implementation
 
-- *understand trees, heaps and PriorityQueues*
+- **understand trees, heaps and PriorityQueues**
 
 
 - questions
@@ -23,7 +23,7 @@ Marin Prep Java
   - `DONE` Check whether two strings are anagram of each other
   - `DONE` compare abstract class and interface
   - `DONE` what is 4 left shift 2 XOR 2
-  - `DONE` what is the value of a number with all bits as 0 except the leftmost one - !MINIMUM_VALUE!
+  - `DONE` what is the value of a number with all bits as 0 except the leftmost one - **MINIMUM_VALUE**
   - explain a TreeMap
   - what methods do you have to implement to make the object properly comparable
   - `DONE` given 2 sets, determine if the second set is a subset of the first
