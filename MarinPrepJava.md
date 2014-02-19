@@ -10,3 +10,4 @@ Marin Prep Java
 - TreeMap
   - a red-black tree based NavigatableMap implementation
 
+- *understand trees, heaps and PriorityQueues* and code to get biggest 10 numbers in a long list
