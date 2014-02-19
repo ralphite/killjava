@@ -26,7 +26,7 @@ Marin Prep Java
   - what is the value of a number with all bits as 0 except the leftmost one
   - explain a TreeMap
   - what methods do you have to implement to make the object properly comparable
-  - given 2 sets, determine if the second set is a subset of the first
+  - `DONE` given 2 sets, determine if the second set is a subset of the first
   - how is a HashSet implemented
   - standard tree questions whiteboard coding
   - Date vs calendar
@@ -36,9 +36,9 @@ Marin Prep Java
   - worst case node addition time in BST
   - hashmap node addition time
   - hashmap methods - name any 7 of them
-  - what is a final class
-  - difference between private vs protected keywords
-  - difference between list and set
+  - `DONE` what is a final class
+  - `DONE` difference between private vs protected keywords
+  - `DONE` difference between list and set
   - Each interviewer had a java programing question in mind and asked to code it on the white board. Some were tough ones and some were easy. eq, Str rev, Factorial, Fibonacci series. etc
   - There was one product manager who actually gave me their web tool and asked me to find bugs on it and actually asked me to file the bug in bugzilla, this was kind of cool.
   - Write a program to find factorial of a number
