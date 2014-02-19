@@ -14,6 +14,12 @@ Marin Prep Java
 - TreeMap
   - a red-black tree based NavigatableMap implementation
 
+- int vs Integer or else
+  - int is fast and mutable, Integer is much more bulkier and immutable
+  - int is a primitive type while Integer is an object type
+  - int can use operators while Integer cannot
+  - Integer can be used in collections such as HashMap, is serializable, etc.
+
 - **understand trees, heaps and PriorityQueues**
 
 
@@ -38,9 +44,9 @@ Marin Prep Java
   - `DONE` what is the value of a number with all bits as 0 except the leftmost one - **MINIMUM_VALUE**
   - `DONE` given 2 sets, determine if the second set is a subset of the first
   - Date vs calendar
-  - long vs object long
+  - `DONE` long vs object long
   - `DONE` what is abstract class, how do you instantiate it ?
-  - int vs integer for counting number of times for loop runs
+  - `DONE` int vs integer for counting number of times for loop runs - sure you want to use int
   - `DONE` what is a final class
   - `DONE` difference between private vs protected keywords
   - `DONE` difference between list and set
