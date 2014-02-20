@@ -5,7 +5,6 @@ Java Knowledge Checklist (mostly asked questions)
   - How to use
   - Which methods
   - Complexity and how it is implemented
-  
 - Overriding vs Overloading
 - Polymorphsm
 - Abstract class vs interface
