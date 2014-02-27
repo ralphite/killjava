@@ -56,3 +56,16 @@ Marin Prep Java
   - `DONE` Write a program to find the magic triangle or summation n
   - `DONE` [Quality Assurance Engineer Interview](http://www.glassdoor.com/Interview/Marin-Software-Quality-Assurance-Engineer-Interview-Questions-EI_IE113537.0,14_KO15,41.htm#RVW1206833)
   - How would you design a web application that handles text lists as well as lists of lists?
+
+
+- questions asked
+  - 1 round by hr
+    - linux cmds - top, ps, crontab -l, etc
+    - how to see tables in mysql
+    - compare override and overload
+  - 2 round by tech lead
+    - explain experiences in test automation
+    - implement function to reverse and string and remove consecutive duplicate chars, eg "aabbbcbbddd" => "dbcba"
+    - implement a method to swap two elements in an array, make it generic
+    - explain singleton and implement it. how to make it not cloneable?
+    - what questions do you have?
