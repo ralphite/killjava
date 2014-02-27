@@ -26,16 +26,16 @@ Marin Prep Java
 - questions
   - `DONE` find common chars in two strings
   - `DONE` find anagrams in a list of strings
-  - find the nth biggest number from a long list of numbers (O(n) quickselect)
-  - find the 10 biggest numbers in from a long list of numbers
-  - worst case node addition time in BST
+  - `DONE` find the nth biggest number from a long list of numbers (O(n) quickselect)
+  - `DONE` find the 10 biggest numbers in from a long list of numbers
+  - `DONE` worst case node addition time in BST
   - how is a HashSet implemented
-  - explain a TreeMap
+  - `DONE` explain a TreeMap
   - standard tree questions whiteboard coding
   - what methods do you have to implement to make the object properly comparable
   - java concepts and bst questions
   - hashmap node addition time
-  - hashmap methods - name any 7 of them
+  - `DONE` hashmap methods - name any 7 of them
   - `DONE` find the most frequently used word in a string
   - `DONE` print the correct sentense in the correct order
   - `DONE` Check whether two strings are anagram of each other
